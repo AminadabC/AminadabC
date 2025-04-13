@@ -3,6 +3,8 @@
 **Profesional en Ingeniería Eléctrica y Ciencia de Datos**
 Trabajo en el sector eléctrico desarrollando herramientas computacionales y soluciones para la automatización de procesos.
 
+Explorando IA, blockchain, ciberseguridad, IoTs, y computación cuántica
+
 📌 *Siempre hay algo que aprender y algo que mejorar.*
 
 ---
