@@ -27,7 +27,7 @@ Soluciones desarrolladas en Python y SQL para automatizar, analizar y reportar i
 
 ## 🎯 Intereses y motivaciones
 
-- 📊 Ciencia de Datos
+- 📊 Ciencia e Ingeniería de Datos
 - ⚛️ Computación Cuántica
 - 🔐 Ciberseguridad
 - ⛓️ Blockchain
