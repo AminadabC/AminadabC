@@ -60,7 +60,7 @@ Estas herramientas están orientadas a:
 📫 Email: **[aminadab.cordova@ieee.org](mailto:aminadab.cordova@ieee.org)**
 
 🔗 LinkedIn:
-https://www.linkedin.com
+https://www.linkedin.com/in/aminadab-cordova/
 
 Si trabajas en **tecnología, analítica o transformación digital**, estaré encantado de intercambiar ideas y colaborar en proyectos.
 
