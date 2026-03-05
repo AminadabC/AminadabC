@@ -1,19 +1,30 @@
-# 👋 Hola, soy Aminadab Cordova
+# 👋 Hola, soy Aminadab Córdova
 
-**Profesional en Ingeniería Eléctrica y Ciencia de Datos**
-Trabajo en el sector eléctrico desarrollando herramientas computacionales y soluciones para la automatización de procesos.
+**Technology & Data Strategist | Ingeniería Eléctrica · Ciencia de Datos · Transformación Digital**
 
-Explorando IA, blockchain, ciberseguridad, IoTs, y computación cuántica
+Profesional con formación en **Ingeniería Eléctrica y Ciencia de Datos**, enfocado en el diseño de soluciones tecnológicas y analíticas que transformen datos en **inteligencia estratégica para la toma de decisiones**.
+
+Trabajo en el sector eléctrico desarrollando **herramientas computacionales, automatización de procesos y soluciones basadas en datos**, integrando tecnología, analítica avanzada y arquitectura digital para mejorar la eficiencia operativa y la innovación organizacional.
+
+Actualmente exploro el potencial estratégico de tecnologías emergentes como **Inteligencia Artificial, blockchain, ciberseguridad, IoT y computación cuántica**.
 
 📌 *Siempre hay algo que aprender y algo que mejorar.*
 
 ---
 
-## ⚙️ Tecnologías que utilizo
+## ⚙️ Tecnologías y herramientas
 
-- 🐍 Python · SQL · pandas · matplotlib · tkinter · Pyomo
-- 💾 PostgreSQL · APIs · Web Scraping
-- ☁️ Azure · Git · GitHub · Docker
+### 🧠 Data & Analytics
+
+🐍 Python · SQL · pandas · matplotlib · Pyomo · tkinter
+
+### 🗄️ Data Platforms
+
+💾 PostgreSQL · APIs · Web Scraping · procesamiento de datos
+
+### ☁️ Cloud & DevOps
+
+Azure · Git · GitHub · Docker
 
 ---
 
@@ -21,33 +32,44 @@ Explorando IA, blockchain, ciberseguridad, IoTs, y computación cuántica
 
 ### 🔧 Herramientas de gestión de mediciones eléctricas
 
-Soluciones desarrolladas en Python y SQL para automatizar, analizar y reportar información de consumo de usuarios calificados en el mercado eléctrico mexicano. Estas herramientas están orientadas a la eficiencia operativa, el cumplimiento normativo y la toma de decisiones estratégicas.
+Desarrollo de soluciones en **Python y SQL** para automatizar, analizar y reportar información de consumo de usuarios calificados en el **mercado eléctrico mexicano**.
+
+Estas herramientas están orientadas a:
+
+* automatización de procesos operativos
+* análisis de datos energéticos
+* cumplimiento regulatorio
+* generación de información para **toma de decisiones estratégicas**
 
 ---
 
-## 🎯 Intereses y motivaciones
+## 🎯 Áreas de interés
 
-- 📊 Ciencia e Ingeniería de Datos
-- ⚛️ Computación Cuántica
-- 🔐 Ciberseguridad
-- ⛓️ Blockchain
-- 🌐 Internet de las Cosas (IoT)
-- 🧠 Inteligencia Artificial
-- ⚡ Redes Eléctricas Inteligentes
-
----
-
-## 📫 ¿Te gustaría colaborar?
-
-Puedes escribirme a: **aminadab.cordova@ieee.org**
-O conectar conmigo en [LinkedIn](https://www.linkedin.com)
+📊 Ciencia e Ingeniería de Datos
+⚡ Redes Eléctricas Inteligentes (Smart Grids)
+🧠 Inteligencia Artificial
+🔐 Ciberseguridad
+⛓️ Blockchain
+🌐 Internet de las Cosas (IoT)
+⚛️ Computación Cuántica
 
 ---
 
-## 🚧 En construcción
+## 🌐 Conectemos
 
-Este perfil está en constante evolución mientras continúo aprendiendo y desarrollando nuevos proyectos. ¡Gracias por visitarlo!
+📫 Email: **[aminadab.cordova@ieee.org](mailto:aminadab.cordova@ieee.org)**
+
+🔗 LinkedIn:
+https://www.linkedin.com
+
+Si trabajas en **tecnología, analítica o transformación digital**, estaré encantado de intercambiar ideas y colaborar en proyectos.
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AminadabC&show_icons=true&theme=default)
+## 🚧 En evolución
+
+Este perfil continúa creciendo mientras desarrollo nuevos proyectos relacionados con **datos, inteligencia artificial y estrategia tecnológica**.
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AminadabC\&show_icons=true\&theme=default)
